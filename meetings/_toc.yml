@@ -4,8 +4,11 @@
 format: jb-book
 root: intro
 parts:
-- caption: Code of Conduct
+  - caption: Agendas
+    chapters:
+    - file: agendas/20220425Agenda.md
+      title: DaanMatch 2020-04-25
+  - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
       title: Code of Conduct for DaanMatch
-
