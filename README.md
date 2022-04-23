@@ -2,7 +2,7 @@
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)]( https://daanmatch.github.io/meeting-agendas/)
 
-![build](https://github.com/DaanMatch/meeting-agendas/workflows/build-and-deploy/badge.svg?branch=master)
+![build](https://github.com/DaanMatch/meeting-agendas/workflows/deploy/badge.svg?branch=master)
 
 ## Updating Instructions
 
