@@ -3,7 +3,7 @@ name: Default Issue
 about: Make a suggestion to improve our existing documentation.
 title: "[Documentation]"
 labels: ''
-assignees: ''
+assignees: '@shpatrickguo'
 
 ---
 
