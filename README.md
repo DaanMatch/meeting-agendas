@@ -9,6 +9,6 @@
 For those wishing to add their agendas to this Jupyter Book:
 
 - Please upload content as `.md` files or `.ipynb` files to the meetings/agendas/ directory.
-- Add files to the Table of Contents in the jupyterdays/_toc.yml file.
+- Add files to the Table of Contents in the meetings/_toc.yml file.
 - Include any dependencies to the requirements.txt file.
-- The book will be rebuilt and deployed automatically. Please tag @P in your commit or in an issue in the repository when you push changes.
+- The book will be rebuilt and deployed automatically. Please tag @shpatrickguo in your commit or in an issue in the repository when you push changes.
