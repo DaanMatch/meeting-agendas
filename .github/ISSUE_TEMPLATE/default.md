@@ -7,14 +7,29 @@ assignees: '@shpatrickguo'
 
 ---
 
-### What article is affected?
+## Summary
 
-<!-- Please link to the article you'd like to see updated -->
+(Summarize the bug encountered concisely)
 
-### What part(s) of the article would you like to see updated?
+## Steps to reproduce
 
-<!-- Give as much detail as you can to help us understand the change you want to see. Why should the docs be changed? What use cases does it support? What is the expected outcome? -->
+(How one can reproduce the issue - this is very important)
 
-### Additional information
+## What is the current bug behavior?
 
-<!-- Add any other context or screenshots about the feature request here. -->
+(What actually happens)
+
+## What is the expected correct behavior?
+
+(What you should see instead)
+
+## Relevant logs and/or screenshots
+
+(Paste any relevant logs - please use code blocks to format console output, logs, and code, as
+it's very hard to read otherwise.)
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)
+
+/assign @shpatrickguo
