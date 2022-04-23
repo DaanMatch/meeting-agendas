@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Meeting Agendas
-author: DaanMatch, Patrick Guo
+author: Patrick Guo
 logo: images/logo.png
 
 # Force re-execution of notebooks on each build.

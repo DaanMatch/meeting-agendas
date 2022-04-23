@@ -2,24 +2,13 @@
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)]( https://daanmatch.github.io/meeting-agendas/)
 
-## Prerequisites
+![build](https://github.com/DaanMatch/meeting-agendas/workflows/build-and-deploy/badge.svg?branch=master)
 
-``` zsh
-pip install -U jupyter-book
-pip install ghp-import
-pip install myst-parser
-```
+## Updating Instructions
 
-## Updating Jupyter Book
+For those wishing to add their agendas to this Jupyter Book:
 
-Rebuild HTML files:
-
-``` zsh
-jb build meetings
-```
-
-Push HTML content to GitHub pages branch
-
-``` zsh
-ghp-import -n -p -f _build/html
-```
+- Please upload content as `.md` files or `.ipynb` files to the meetings/agendas/ directory.
+- Add files to the Table of Contents in the jupyterdays/_toc.yml file.
+- Include any dependencies to the requirements.txt file.
+- The book will be rebuilt and deployed automatically. Please tag @P in your commit or in an issue in the repository when you push changes.
