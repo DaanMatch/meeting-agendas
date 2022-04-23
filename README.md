@@ -13,6 +13,10 @@ For those wishing to add their agendas to this Jupyter Book:
 - Include any dependencies to the requirements.txt file.
 - The book will be rebuilt and deployed automatically. Please tag @shpatrickguo in your commit or in an issue in the repository when you push changes.
 
+## Contributors
+
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/patrick/my_book/graphs/contributors).
+
 ## Credits
 
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
