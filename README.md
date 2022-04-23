@@ -12,3 +12,7 @@ For those wishing to add their agendas to this Jupyter Book:
 - Add files to the Table of Contents in the meetings/_toc.yml file.
 - Include any dependencies to the requirements.txt file.
 - The book will be rebuilt and deployed automatically. Please tag @shpatrickguo in your commit or in an issue in the repository when you push changes.
+
+## Credits
+
+This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
