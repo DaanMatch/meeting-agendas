@@ -13,9 +13,21 @@ For those wishing to add their agendas to this Jupyter Book:
 - Include any dependencies to the requirements.txt file.
 - The book will be rebuilt and deployed automatically. Please tag @shpatrickguo in your commit or in an issue in the repository when you push changes.
 
+## Developer Usage
+
+### Building the book
+
+If you'd like to develop and/or build the My Book book, you should:
+
+1. Clone this repository
+2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
+3. (Optional) Edit the books source files located in the `meetings/` directory
+4. Run `jupyter-book clean meetings/` to remove any existing builds
+5. Run `jupyter-book build meetings/`
+
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/patrick/my_book/graphs/contributors).
+We welcome and recognize all contributions. 
 
 ## Credits
 
