@@ -1,3 +1,18 @@
+---
+jupytext:
+  cell_metadata_filter: -all
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.10.3
+kernelspec:
+  display_name: Python 3 (ipykernel)
+  language: python
+  name: python3
+---
+
 # Markdown Files
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
@@ -52,6 +67,7 @@ In your built book.
 For more information on writing directives, see the
 [MyST documentation](https://myst-parser.readthedocs.io/).
 
++++
 
 ### Using a role
 
@@ -71,6 +87,7 @@ role syntax `` {doc}`intro` `` will result in: {doc}`intro`.
 For more information on writing roles, see the
 [MyST documentation](https://myst-parser.readthedocs.io/).
 
++++
 
 ### Adding a citation
 
@@ -94,6 +111,7 @@ Resulting in a rendered bibliography that looks like:
 ```{bibliography}
 ```
 
++++
 
 ### Executing code in your markdown files
 
