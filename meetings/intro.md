@@ -1,16 +1,17 @@
-# Welcome to DaanMatch
+# Welcome to DaanMatch's Agenda
 
-This is a small sample book to give you a feel for how book content is
-structured.
+All meetings are hosted on Google Meets or Zoom. <br>
+Work communications on Slack. <br>
+Default Timezone: PST.
 
-:::{note}
-Here is a note!
+## Weekly Agenda
+
+:::calendar 2022 April
+- 25
+  - [Meeting] 5:00pm - Agenda Formatting
+- 26
+  - [Meeting] 7:30am - Questions to screen NGOs
+- 27
+  - [Meeting] 7:30am - Team Check-in
+  - [Meeting] 7:00pm - Deep Dive
 :::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
