@@ -7,7 +7,7 @@ Default Timezone: PST.
 ## Weekly Agenda
 
 ```{tabbed} Mon
-- Meeting 5:00pm - Agenda Formatting
+- [Meeting 5:00pm - Agenda Formatting](agendas/20220425Agenda.md)
 ```
 
 ```{tabbed} Tue
