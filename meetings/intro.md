@@ -21,10 +21,15 @@ Wed
 ^^^
 - Meeting 7:30am - Team Check-in
 - Meeting 7:00pm - Deep Dive
----
+````
+
+````{panels}
 Thu
 ^^^
 ---
 Fri
+^^^
+---
+Sat&Sun
 ^^^
 ````
