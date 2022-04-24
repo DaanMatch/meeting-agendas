@@ -6,12 +6,25 @@ Default Timezone: PST.
 
 ## Weekly Agenda
 
-:::calendar 2022 April
-- 25
-  - [Meeting] 5:00pm - Agenda Formatting
-- 26
-  - [Meeting] 7:30am - Questions to screen NGOs
-- 27
-  - [Meeting] 7:30am - Team Check-in
-  - [Meeting] 7:00pm - Deep Dive
-:::
+````{panels}
+:column: col-4
+:card: border-2
+Mon
+^^^
+Meeting 5:00pm - Agenda Formatting
+---
+Tue
+^^^
+Meeting 7:30am - Questions to screen NGOs
+---
+Wed
+^^^
+Meeting 7:30am - Team Check-in
+Meeting 7:00pm - Deep Dive
+---
+Thu
+^^^
+---
+Fri
+^^^
+````
