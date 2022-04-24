@@ -6,6 +6,8 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+    - file: agendas/20220426Agenda.md
+      title: DaanMatch 2020-04-26
     - file: agendas/20220425Agenda.md
       title: DaanMatch 2020-04-25
   - caption: Code of Conduct

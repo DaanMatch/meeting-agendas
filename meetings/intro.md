@@ -2,7 +2,8 @@
 
 All meetings are hosted on Google Meets or Zoom. <br>
 Work communications on Slack. <br>
-Default Timezone: PST.
+Default Timezone: PST. <br>
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Weekly Agenda
 
@@ -11,7 +12,7 @@ Default Timezone: PST.
 ```
 
 ```{tabbed} Tue
-- Meeting 7:30am - Questions to screen NGOs
+- [Meeting 7:30am - Questions to screen NGOs](agendas/20220426Agenda.md)
 ```
 
 ```{tabbed} Wed
