@@ -5,6 +5,14 @@ Work communications on Slack. <br>
 Default Timezone: PST. <br>
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
+```{admonition} Announcements
+:class: tip
+Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. Please respond to their email. <br>
+1. Understand which piece of the puzzle you're working on
+2. Understand how you would measure success for the piece you're working on and the Project as a whole
+3. Understand the 3 most valuable Deliverables for your area and the project as a whole
+```
+
 ## Weekly Agenda
 
 ```{tabbed} Mon
