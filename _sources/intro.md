@@ -7,7 +7,9 @@ Default Timezone: PST. <br>
 
 ```{admonition} Announcements
 :class: tip
-Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. Please respond to their email. <br>
+Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. <br>
+Please respond to their email. <br>
+<b>Meeting will go over:</b> <br>
 1. Understand which piece of the puzzle you're working on
 2. Understand how you would measure success for the piece you're working on and the Project as a whole
 3. Understand the 3 most valuable Deliverables for your area and the project as a whole
