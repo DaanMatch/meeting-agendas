@@ -11,8 +11,10 @@ parts:
       title: DaanMatch 2020-04-25
     - file: agendas/20220426Agenda.md
       title: DaanMatch 2020-04-26
-    #- file: agendas/20220428Agenda.md
-    #  title: DaanMatch 2020-04-28
+    - file: agendas/20220426Agenda.md
+      title: DaanMatch 2020-04-26
+    - file: agendas/20220428Agenda.md
+      title: DaanMatch 2020-04-28
   - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
