@@ -6,7 +6,7 @@ Default Timezone: PST. <br>
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ```{admonition} Announcements
-:class: tip
+:class: attention
 [TiEcon](https://www.tiecon.org/) - May 5-7, 2022 <br>
 <br>
 Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. <br>
