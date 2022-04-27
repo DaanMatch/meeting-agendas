@@ -13,7 +13,7 @@ parts:
     - file: agendas/20220427Agenda.md
       title: DaanMatch 2020-04-27
     - file: agendas/20220427BAgenda.md
-      title: DaanMatch 2020-04-27
+      title: DaanMatch 2020-04-27PM
     - file: agendas/20220428Agenda.md
       title: DaanMatch 2020-04-28
   - caption: Minutes
