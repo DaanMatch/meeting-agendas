@@ -25,7 +25,7 @@ Please respond to their email. <br>
 
 ```{tabbed} Wed
 - [Meeting 7:30am - Team Check-in](agendas/20220427Agenda.md)
-- Meeting 7:00pm - Deep Dive
+- [Meeting 7:00pm - Deep Dive](agendas/20220427BAgenda.md)
 ```
 
 ```{tabbed} Other
