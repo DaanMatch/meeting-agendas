@@ -16,10 +16,6 @@ parts:
       title: DaanMatch 2022-04-27 19:00
     - file: agendas/20220428Agenda.md
       title: DaanMatch 2022-04-28 11:00
-  - caption: Minutes
-    chapters:
-    - file: minutes/20220427Minutes.md
-      title: Agenda 2022-04-27
   - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
