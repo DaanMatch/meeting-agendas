@@ -25,16 +25,12 @@ Please respond to their email. <br>
 ```
 
 ```{tabbed} Tue
-- [Meeting 7:30am - Questions to screen NGOs](agendas/20220426Agenda.md)
+- [Meeting 8:00am - WEBINAR: Launching a groundbreaking platform for impact data dashboards](https://us02web.zoom.us/w/89966112350?tk=Ww68FnxsZMlpLeOcWsp8HtFLhrukP31YY9YRunwghOw.DQMAAAAU8mXuXhZVM3I0a1RTeFFJQ184LVROMDJnV09BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_zJoE0a_1TqqcLZ0Ag4VggA)
 ```
 
 ```{tabbed} Wed
-- [Meeting 7:30am - Team Check-in](agendas/20220427Agenda.md)
-- [Meeting 7:00pm - Deep Dive](agendas/20220427BAgenda.md)
-```
-
-```{tabbed} Other
-- [Meeting - Scoping](agendas/20220428Agenda.md)
+- [Meeting 7:30am - Team Check-in](agendas/20220504Agenda.md)
+- [Meeting 7:00pm - Deep Dive](agendas/20220504BAgenda.md)
 ```
 
 ## ARCHIVE
