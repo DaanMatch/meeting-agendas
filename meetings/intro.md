@@ -1,4 +1,4 @@
-# Welcome to DaanMatch's Weekly Agenda
+# DaanMatch's Weekly Agenda
 
 All meetings are hosted on Google Meets or Zoom. Default Timezone: PST. <br>
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
