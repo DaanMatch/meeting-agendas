@@ -10,12 +10,6 @@ Default Timezone: PST. <br>
 DaanMatch is launching officially at this event in November 2022! <br>
 Need a beautiful, functioning, convincing MVP with data analysis and visualizations by November 1st 2022. Before Cara gets on a plane for Delhi. <br>
 Need the proof of concept on ground with a bunch of NGOs by June 1st.
-Asking Justin Meyers to join us as our GIS problem solver today. He's between gigs, very experienced, and into India and HELPING. <br>
-
-[TiEcon](https://www.tiecon.org/) - May 5-7, 2022 <br>
-<br>
-Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. <br>
-Please respond to their email. <br>
 ```
 
 ## Weekly Agenda - 2022 May Week 1
