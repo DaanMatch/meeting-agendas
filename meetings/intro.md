@@ -9,7 +9,7 @@ Default Timezone: PST. <br>
 
 ```{admonition} Announcements - 2022 May
 :class: attention
-DaanMatch is launching officially at this event in November 2022! <br>
+DaanMatch is launching officially at [CSR Summit](https://indiacsrsummit.in/) in November 2022! <br>
 Need a beautiful, functioning, convincing MVP with data analysis and visualizations by November 1st 2022. Before Cara gets on a plane for Delhi. <br>
 Need the proof of concept on ground with a bunch of NGOs by June 1st.
 ```
