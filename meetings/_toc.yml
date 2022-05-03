@@ -8,6 +8,8 @@ parts:
     chapters:
     - file: agendas/20220502Agenda.md
       title: DaanMatch 2022-05-02 6:30pm
+    - file: agendas/20220504Agenda.md
+      title: DaanMatch 2022-05-04 7:30am
   - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
