@@ -21,7 +21,7 @@ Please respond to their email. <br>
 ## Weekly Agenda - 2022 May Week 1
 
 ```{tabbed} Mon
-- [Meeting 5:00pm - Agenda Formatting](agendas/20220425Agenda.md)
+- [Meeting 6:30pm - CSR Summit - Launch Annoucement](agendas/20220425Agenda.md)
 ```
 
 ```{tabbed} Tue
