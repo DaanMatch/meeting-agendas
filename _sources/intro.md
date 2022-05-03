@@ -8,7 +8,7 @@ Default Timezone: PST. <br>
 ```{admonition} Announcements - 2022 May
 :class: attention
 DaanMatch is launching officially at this event in November 2022! <br>
-Need a beautiful, functioning, convincing MVP with data analysis and visualizations by <br>November 1st 2022<br>. Before Cara gets on a plane for Delhi. <br>
+Need a beautiful, functioning, convincing MVP with data analysis and visualizations by November 1st 2022. Before Cara gets on a plane for Delhi. <br>
 Need the proof of concept on ground with a bunch of NGOs by June 1st.
 Asking Justin Meyers to join us as our GIS problem solver today. He's between gigs, very experienced, and into India and HELPING. <br>
 
@@ -21,7 +21,7 @@ Please respond to their email. <br>
 ## Weekly Agenda - 2022 May Week 1
 
 ```{tabbed} Mon
-- [Meeting 6:30pm - CSR Summit - Launch Annoucement](agendas/20220425Agenda.md)
+- [Meeting 6:30pm - CSR Summit - Launch Announcement](agendas/20220502Agenda.md)
 ```
 
 ```{tabbed} Tue
