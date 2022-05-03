@@ -1,11 +1,11 @@
-# Welcome to DaanMatch's Agenda
+# Welcome to DaanMatch's Weekly Agenda
 
 All meetings are hosted on Google Meets or Zoom. <br>
 Work communications on Slack. <br>
 Default Timezone: PST. <br>
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## Weekly Agenda - 2022 May Week 1
+## 2022 May Week 1
 
 ```{admonition} Announcements - 2022 May
 :class: attention
@@ -27,7 +27,7 @@ Need the proof of concept on ground with a bunch of NGOs by June 1st.
 - [Meeting 7:00pm - Deep Dive](agendas/20220504BAgenda.md)
 ```
 
-## Weekly Agenda - 2022 April Week 4
+## 2022 April Week 4
 
 ```{admonition} Announcements - 2022 April
 :class: attention
