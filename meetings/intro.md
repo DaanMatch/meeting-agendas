@@ -5,14 +5,14 @@ Work communications on Slack. <br>
 Default Timezone: PST. <br>
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
+## Weekly Agenda - 2022 May Week 1
+
 ```{admonition} Announcements - 2022 May
 :class: attention
 DaanMatch is launching officially at this event in November 2022! <br>
 Need a beautiful, functioning, convincing MVP with data analysis and visualizations by November 1st 2022. Before Cara gets on a plane for Delhi. <br>
 Need the proof of concept on ground with a bunch of NGOs by June 1st.
 ```
-
-## Weekly Agenda - 2022 May Week 1
 
 ```{tabbed} Mon
 - [Meeting 6:30pm - CSR Summit - Launch Announcement](agendas/20220502Agenda.md)
@@ -27,7 +27,7 @@ Need the proof of concept on ground with a bunch of NGOs by June 1st.
 - [Meeting 7:00pm - Deep Dive](agendas/20220504BAgenda.md)
 ```
 
-## ARCHIVE
+## Weekly Agenda - 2022 April Week 4
 
 ```{admonition} Announcements - 2022 April
 :class: attention
@@ -36,8 +36,6 @@ Need the proof of concept on ground with a bunch of NGOs by June 1st.
 Alan Manewitz - alan.manewitz@ai-strategies.net - is setting up 45min meetings for Scoping. <br>
 Please respond to their email. <br>
 ```
-
-## Weekly Agenda - 2022 April Week 4
 
 ```{tabbed} Mon
 - [Meeting 5:00pm - Agenda Formatting](agendas/20220425Agenda.md)
