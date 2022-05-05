@@ -22,7 +22,7 @@ Need the proof of concept on ground with a bunch of NGOs by June 1st.
 
 ```{tabbed} Wed
 - [Meeting 7:30am - Team Check-in](agendas/20220504Agenda.md)
-- [Meeting 7:00pm - Deep Dive](agendas/20220504BAgenda.md)
+- [Meeting 7:00pm - Deep Dive](agendas/20220504Agenda.md)
 ```
 
 ## 2022 April Week 4
