@@ -7,9 +7,9 @@ parts:
   - caption: Agendas
     chapters:
     - file: agendas/20220518BAgenda.md
-      title: DaanMatch Discussion 2022-05-18 7:00pm
+      title: Discussion 2022-05-18 7:00pm
     - file: agendas/20220518Agenda.md
-      title: DaanMatch Check-in 2022-05-18 7:30am
+      title: Check-in 2022-05-18 7:30am
     - file: agendas/20220502Agenda.md
       title: DaanMatch 2022-05-02 6:30pm
     - file: agendas/20220504Agenda.md
