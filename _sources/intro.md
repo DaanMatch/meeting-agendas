@@ -1,10 +1,17 @@
 # DaanMatch's Weekly Agenda
 
-All meetings are hosted on Google Meets or Zoom. Default Timezone: PST. <br>
+All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
+
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 2022 May Week 1
+## 2022 May Week 3
 
+```{tabbed} Wed
+- [Check-In 7:30am](agendas/20220518Agenda.md)
+- [Discussion 7:30pm](agendas/20220518BAgenda.md)
+```
+
+````{dropdown} 2022 May Week 1
 ```{admonition} Announcements - 2022 May
 :class: attention
 DaanMatch is launching officially at [CSR Summit](https://indiacsrsummit.in/) in November 2022! <br>
@@ -24,9 +31,9 @@ Need the proof of concept on ground with a bunch of NGOs by June 1st.
 - [Meeting 7:30am - Team Check-in](agendas/20220504Agenda.md)
 - [Meeting 7:00pm - Deep Dive](agendas/20220504Agenda.md)
 ```
+````
 
-## 2022 April Week 4
-
+````{dropdown} 2022 April Week 4
 ```{admonition} Announcements - 2022 April
 :class: attention
 [TiEcon](https://www.tiecon.org/) - May 5-7, 2022 <br>
@@ -51,3 +58,4 @@ Please respond to their email. <br>
 ```{tabbed} Other
 - [Meeting - Scoping](agendas/20220428Agenda.md)
 ```
+````
