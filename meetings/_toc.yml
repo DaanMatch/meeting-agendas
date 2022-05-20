@@ -6,14 +6,15 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+    - file: agendas/20220525BAgenda.md
+      title: Discussion 2022-05-25 7:00pm
+    - file: agendas/20220518Agenda.md
+      title: Check-in 2022-05-25 7:30am
     - file: agendas/20220518BAgenda.md
       title: Discussion 2022-05-18 7:00pm
     - file: agendas/20220518Agenda.md
       title: Check-in 2022-05-18 7:30am
-    - file: agendas/20220502Agenda.md
-      title: Discussion 2022-05-02 6:30pm
-    - file: agendas/20220504Agenda.md
-      title: Check-in 2022-05-04 7:30am
+    
   - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
@@ -31,4 +32,7 @@ parts:
       title: DaanMatch 2022-04-26 7:30am
     - file: agendas/20220425Agenda.md
       title: DaanMatch 2022-04-25 5:00pm
-
+    - file: agendas/20220504Agenda.md
+      title: Check-in 2022-05-04 7:30am
+    - file: agendas/20220502Agenda.md
+      title: Discussion 2022-05-02 6:30pm
