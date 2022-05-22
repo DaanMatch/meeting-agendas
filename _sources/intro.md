@@ -11,6 +11,13 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 - [Discussion 7:30pm](agendas/20220525BAgenda.md)
 ```
 
+````{dropdown} 2022 May Week 3
+```{tabbed} Wed
+- [Check-In 7:30am](agendas/20220518Agenda.md)
+- [Discussion 7:30pm](agendas/20220518BAgenda.md)
+```
+````
+
 ````{dropdown} 2022 May Week 1
 ```{admonition} Announcements - 2022 May
 :class: attention
