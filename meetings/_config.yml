@@ -4,7 +4,7 @@
 title: Meeting Agendas
 author: DaanMatch
 logo: img/logo.jpg
-copyright: 2022
+copyright: "2022"
 exclude_patterns: [_build, .DS_Store, "**.ipynb_checkpoints"]
 only_build_toc_files: true
 
