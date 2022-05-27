@@ -7,7 +7,7 @@ parts:
   - caption: Agendas
     chapters:
     - file: agendas/20220531Agenda.md
-      title: Discussion 2022-05-31 4:30pm
+      title: Meeting 2022-05-31 4:30pm
     - file: agendas/20220525Agenda.md
       title: Check-in 2022-05-25 7:30am
     - file: agendas/20220518BAgenda.md
