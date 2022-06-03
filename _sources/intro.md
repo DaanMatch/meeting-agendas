@@ -4,7 +4,7 @@ All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
 
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 2022 Jue Week 2
+## 2022 June Week 2
 
 ```{tabbed} Wed
 - [Check-In 7:30am](agendas/20220608Agenda.md)
@@ -12,7 +12,7 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 
 ## Previous Weeks
 
-````{dropdown} 2022 Jue Week 1
+````{dropdown} 2022 June Week 1
 ```{tabbed} Tuesday
 - [Meeting 4:30pm](agendas/20220531Agenda.md)
 ```
