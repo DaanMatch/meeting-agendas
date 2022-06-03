@@ -6,6 +6,8 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+    - file: agendas/20220608Agenda.md
+      title: Check-in 2022-06-08 7:30am
     - file: agendas/20220601BAgenda.md
       title: Check-in 2022-06-01 7:00pm
     - file: agendas/20220601Agenda.md
