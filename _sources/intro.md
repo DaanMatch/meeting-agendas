@@ -6,6 +6,8 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 
 ## 2022 June Week 2
 
+Why are all the text missing?
+
 ```{tabbed} Wed
 - [Check-In 7:30am](agendas/20220608Agenda.md)
 - [Discussion 7:30pm](agendas/20220608BAgenda.md)
