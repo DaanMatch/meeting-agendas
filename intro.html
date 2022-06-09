@@ -43,6 +43,40 @@
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "DaanMatch/meeting-agendas");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
@@ -446,8 +480,8 @@ title="Print to PDF"
 <section id="june-week-2">
 <h2>2022 June Week 2<a class="headerlink" href="#june-week-2" title="Permalink to this headline">#</a></h2>
 <div class="sd-tab-set docutils">
-<input checked="checked" id="04d683c9-0b19-4d3a-87cc-eb97dad0f741" name="3d72ac6d-5b6f-49d1-8806-c7cbe87d906a" type="radio">
-</input><label class="sd-tab-label" for="04d683c9-0b19-4d3a-87cc-eb97dad0f741">
+<input checked="checked" id="8558e411-5832-4263-b828-0af5cd3ea428" name="f41c1a17-8fff-4e89-a227-54581bf71846" type="radio">
+</input><label class="sd-tab-label" for="8558e411-5832-4263-b828-0af5cd3ea428">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p><a class="reference internal" href="agendas/20220608Agenda.html"><span class="doc std std-doc">Check-In 7:30am</span></a></p></li>
@@ -466,15 +500,15 @@ Wed</label><div class="sd-tab-content docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
 <div class="sd-tab-set docutils">
-<input checked="checked" id="aa77bd07-f604-4a8d-9d25-6d42aa7d6ca1" name="53d9c1ff-bc07-4339-8fa1-a999a1406c4f" type="radio">
-</input><label class="sd-tab-label" for="aa77bd07-f604-4a8d-9d25-6d42aa7d6ca1">
+<input checked="checked" id="a769376b-9512-496c-8ce3-485b1122bc9a" name="2557351e-ece5-42ee-98aa-649dacf2922e" type="radio">
+</input><label class="sd-tab-label" for="a769376b-9512-496c-8ce3-485b1122bc9a">
 Tuesday</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220531Agenda.html"><span class="doc std std-doc">Meeting 4:30pm</span></a></p></li>
 </ul>
 </div>
-<input id="360aa4f3-2356-408a-807d-7b639c9e7685" name="53d9c1ff-bc07-4339-8fa1-a999a1406c4f" type="radio">
-</input><label class="sd-tab-label" for="360aa4f3-2356-408a-807d-7b639c9e7685">
+<input id="aa7a4c14-cf0b-4e07-8c22-e6fa285a5aee" name="2557351e-ece5-42ee-98aa-649dacf2922e" type="radio">
+</input><label class="sd-tab-label" for="aa7a4c14-cf0b-4e07-8c22-e6fa285a5aee">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220601Agenda.html"><span class="doc std std-doc">Check-In 7:30am</span></a></p></li>
@@ -490,8 +524,8 @@ Wed</label><div class="sd-tab-content docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
 <div class="sd-tab-set docutils">
-<input checked="checked" id="2e3ccd1c-bdab-4c62-8625-60e170742221" name="3a1c1c00-fdf1-4a3b-913e-49a08107242e" type="radio">
-</input><label class="sd-tab-label" for="2e3ccd1c-bdab-4c62-8625-60e170742221">
+<input checked="checked" id="4a5c167d-575f-43fc-9e91-d37adc730c43" name="56bd769f-8b5d-4e45-8b00-0466031e9ffb" type="radio">
+</input><label class="sd-tab-label" for="4a5c167d-575f-43fc-9e91-d37adc730c43">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220525Agenda.html"><span class="doc std std-doc">Check-In 7:30am</span></a></p></li>
@@ -507,8 +541,8 @@ Wed</label><div class="sd-tab-content docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
 <div class="sd-tab-set docutils">
-<input checked="checked" id="4c566804-9cfe-4f40-8e05-b0ab0acc27c4" name="0fc27292-8d25-48b4-a51b-d643dee1e98f" type="radio">
-</input><label class="sd-tab-label" for="4c566804-9cfe-4f40-8e05-b0ab0acc27c4">
+<input checked="checked" id="f33777d5-adc9-4e08-8a7f-bfd9038235b5" name="36800938-efbc-42fd-9e10-5074a91898f4" type="radio">
+</input><label class="sd-tab-label" for="f33777d5-adc9-4e08-8a7f-bfd9038235b5">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220518Agenda.html"><span class="doc std std-doc">Check-In 7:30am</span></a></p></li>
@@ -531,22 +565,22 @@ Need a beautiful, functioning, convincing MVP with data analysis and visualizati
 Need the proof of concept on ground with a bunch of NGOs by June 1st.</p>
 </div>
 <div class="sd-tab-set docutils">
-<input checked="checked" id="62054275-1646-4be6-b5bd-11d4367b2f31" name="efae7da1-9101-4573-9e1d-120fac530121" type="radio">
-</input><label class="sd-tab-label" for="62054275-1646-4be6-b5bd-11d4367b2f31">
+<input checked="checked" id="b60b55fc-ae8f-4860-918c-c9b46d3b393f" name="4f414e81-3eca-4319-b091-b701addb3d86" type="radio">
+</input><label class="sd-tab-label" for="b60b55fc-ae8f-4860-918c-c9b46d3b393f">
 Mon</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220502Agenda.html"><span class="doc std std-doc">Meeting 6:30pm - CSR Summit - Launch Announcement</span></a></p></li>
 </ul>
 </div>
-<input id="08068d46-6cd1-4b22-9f97-497827d66f03" name="efae7da1-9101-4573-9e1d-120fac530121" type="radio">
-</input><label class="sd-tab-label" for="08068d46-6cd1-4b22-9f97-497827d66f03">
+<input id="18e7ed82-c57f-42db-b35a-fc5c9647ef43" name="4f414e81-3eca-4319-b091-b701addb3d86" type="radio">
+</input><label class="sd-tab-label" for="18e7ed82-c57f-42db-b35a-fc5c9647ef43">
 Tue</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference external" href="https://us02web.zoom.us/w/89966112350?tk=Ww68FnxsZMlpLeOcWsp8HtFLhrukP31YY9YRunwghOw.DQMAAAAU8mXuXhZVM3I0a1RTeFFJQ184LVROMDJnV09BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;uuid=WN_zJoE0a_1TqqcLZ0Ag4VggA">Meeting 8:00am - WEBINAR: Launching a groundbreaking platform for impact data dashboards</a></p></li>
 </ul>
 </div>
-<input id="db60e4f2-2d8a-4a31-86a0-336002ddca28" name="efae7da1-9101-4573-9e1d-120fac530121" type="radio">
-</input><label class="sd-tab-label" for="db60e4f2-2d8a-4a31-86a0-336002ddca28">
+<input id="e84a8fcc-a090-4bc8-a8fb-edc12914063d" name="4f414e81-3eca-4319-b091-b701addb3d86" type="radio">
+</input><label class="sd-tab-label" for="e84a8fcc-a090-4bc8-a8fb-edc12914063d">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220504Agenda.html"><span class="doc std std-doc">Meeting 7:30am - Team Check-in</span></a></p></li>
@@ -570,30 +604,30 @@ Alan Manewitz - <a class="reference external" href="mailto:alan&#46;manewitz&#37
 Please respond to their email. <br></p>
 </div>
 <div class="sd-tab-set docutils">
-<input checked="checked" id="d32f3323-1d6c-44cf-852a-512f910512d9" name="5227919a-605d-425c-b0ca-674bd1cc2145" type="radio">
-</input><label class="sd-tab-label" for="d32f3323-1d6c-44cf-852a-512f910512d9">
+<input checked="checked" id="38ee3d37-e103-41ea-b016-71f140d527f2" name="9c362603-f6e3-47de-a560-f52092648ccd" type="radio">
+</input><label class="sd-tab-label" for="38ee3d37-e103-41ea-b016-71f140d527f2">
 Mon</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220425Agenda.html"><span class="doc std std-doc">Meeting 5:00pm - Agenda Formatting</span></a></p></li>
 </ul>
 </div>
-<input id="53147dcc-99f3-4b8f-acd6-027e57bec68c" name="5227919a-605d-425c-b0ca-674bd1cc2145" type="radio">
-</input><label class="sd-tab-label" for="53147dcc-99f3-4b8f-acd6-027e57bec68c">
+<input id="006fbda9-c40e-4889-9277-e063062d5b7b" name="9c362603-f6e3-47de-a560-f52092648ccd" type="radio">
+</input><label class="sd-tab-label" for="006fbda9-c40e-4889-9277-e063062d5b7b">
 Tue</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220426Agenda.html"><span class="doc std std-doc">Meeting 7:30am - Questions to screen NGOs</span></a></p></li>
 </ul>
 </div>
-<input id="2f7080c1-d11d-422a-8e2b-ae6d25dd8d9b" name="5227919a-605d-425c-b0ca-674bd1cc2145" type="radio">
-</input><label class="sd-tab-label" for="2f7080c1-d11d-422a-8e2b-ae6d25dd8d9b">
+<input id="6ef3c453-0b3e-4a8b-af28-1f3050071b11" name="9c362603-f6e3-47de-a560-f52092648ccd" type="radio">
+</input><label class="sd-tab-label" for="6ef3c453-0b3e-4a8b-af28-1f3050071b11">
 Wed</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220427Agenda.html"><span class="doc std std-doc">Meeting 7:30am - Team Check-in</span></a></p></li>
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220427BAgenda.html"><span class="doc std std-doc">Meeting 7:00pm - Deep Dive</span></a></p></li>
 </ul>
 </div>
-<input id="22eb2381-e72d-4515-9ca8-6bb7ce10a41b" name="5227919a-605d-425c-b0ca-674bd1cc2145" type="radio">
-</input><label class="sd-tab-label" for="22eb2381-e72d-4515-9ca8-6bb7ce10a41b">
+<input id="54294a5f-82de-42ee-98cb-d9a89c864070" name="9c362603-f6e3-47de-a560-f52092648ccd" type="radio">
+</input><label class="sd-tab-label" for="54294a5f-82de-42ee-98cb-d9a89c864070">
 Other</label><div class="sd-tab-content docutils">
 <ul class="simple">
 <li><p class="sd-card-text"><a class="reference internal" href="agendas/20220428Agenda.html"><span class="doc std std-doc">Meeting - Scoping</span></a></p></li>
