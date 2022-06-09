@@ -7,6 +7,7 @@ logo: img/logo.jpg
 copyright: "2022"
 exclude_patterns: [_build, .DS_Store, "**.ipynb_checkpoints"]
 only_build_toc_files: true
+myst_footnote_transition: False
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -51,6 +52,6 @@ html:
   use_issues_button: true
   use_repository_button: true
   comments:
-#    utterances:
-#      repo: "DaanMatch/meeting-agendas"
+    utterances:
+      repo: "DaanMatch/meeting-agendas"
     hypothesis: true
