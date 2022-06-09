@@ -51,6 +51,6 @@ html:
   use_issues_button: true
   use_repository_button: true
   comments:
-    utterances:
-      repo: "DaanMatch/meeting-agendas"
+#    utterances:
+#      repo: "DaanMatch/meeting-agendas"
     hypothesis: true
