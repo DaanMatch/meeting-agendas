@@ -8,7 +8,7 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 
 ````{tab-set}
 ```{tab-item} Tuesday
-- Meeting 4:30pm
+- [Design Thinking Meeting 7:30am](agendas/20220621Agenda.md)
 ```
 
 ```{tab-item} Wed
