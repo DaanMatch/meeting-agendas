@@ -4,7 +4,34 @@ All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
 
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 2022 June Week 2
+## 2022 June Week 4
+
+````{tab-set}
+```{tab-item} Tuesday
+- [Design Thinking Meeting 7:30am](agendas/20220621Agenda.md)
+```
+
+```{tab-item} Wed
+- [Check-In 7:30am](agendas/20220622Agenda.md)
+- [Deep Dive 7:30pm](agendas/20220622BAgenda.md)
+```
+````
+
+## Previous Weeks
+
+`````{dropdown} 2022 June Week 2
+```{admonition} Announcements - 2022 June
+:class: attention
+Alan is surveying 2 morning times work to introduce Design Thinking Methodology using [Mural.co](http://mural.co/) as a collaboration tool for Virtual meetings. 1 to 1.5 hours. 
+
+- First option is Friday June 10, 2022 at 7:30am Pacific Time. 
+- Second is Tuesday June 14, 2022 at 7:30am. 
+
+Please let Alan know 1st choice AND 2nd choice (if you’re available for both).
+
+ 1.  Basic intro to Design Thinking
+ 2. Online Mural session where everyone can learn and practice some really easy ways to collaborate. Creating post-its on a topic for example or divergent brainstorming where any idea is ok to suggest and convergent teaming where we take brainstorming ideas or research /tech insights and narrow down to what’s practical and a priority.
+```
 
 ````{tab-set}
 ```{tab-item} Wed
@@ -12,8 +39,7 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 - [Discussion 7:30pm](agendas/20220608BAgenda.md)
 ```
 ````
-
-## Previous Weeks
+`````
 
 `````{dropdown} 2022 June Week 1
 ````{tab-set}
