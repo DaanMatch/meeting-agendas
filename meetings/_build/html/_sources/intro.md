@@ -104,11 +104,10 @@ Please respond to their email. <br>
 ```
 ````{tab-set}
 ```{tab-item} Mon
-- [Meeting 5:00pm - Agenda Formatting](agendas/20220425Agenda.md)
-```
+- Meeting 5:00pm - Agenda Formatting
 
 ```{tab-item} Tue
-- [Meeting 7:30am - Questions to screen NGOs](agendas/20220426Agenda.md)
+- Meeting 7:30am - Questions to screen NGOs
 ```
 
 ```{tab-item} Wed
