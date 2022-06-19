@@ -6,22 +6,12 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
-    - file: agendas/20220608BAgenda.md
-      title: Check-in 2022-06-08 7:30pm
-    - file: agendas/20220608Agenda.md
-      title: Check-in 2022-06-08 7:30am
-    - file: agendas/20220601BAgenda.md
-      title: Check-in 2022-06-01 7:00pm
-    - file: agendas/20220601Agenda.md
-      title: Check-in 2022-06-01 7:30am
-    - file: agendas/20220531Agenda.md
-      title: Meeting 2022-05-31 4:30pm
-    - file: agendas/20220525Agenda.md
-      title: Check-in 2022-05-25 7:30am
-    - file: agendas/20220518BAgenda.md
-      title: Discussion 2022-05-18 7:00pm
-    - file: agendas/20220518Agenda.md
-      title: Check-in 2022-05-18 7:30am
+    - file: agendas/20220621Agenda.md
+      title: Design Thinking 2022-06-22 7:30am
+    - file: agendas/20220622Agenda.md
+      title: Check-in 2022-06-22 7:30am
+    - file: agendas/20220622BAgenda.md
+      title: Deep Dive 2022-06-22 7:00pm
   - caption: Code of Conduct
     chapters:
     - file: CODE_OF_CONDUCT.md
@@ -43,3 +33,19 @@ parts:
       title: Check-in 2022-05-04 7:30am
     - file: agendas/20220502Agenda.md
       title: Discussion 2022-05-02 6:30pm
+    - file: agendas/20220518Agenda.md
+      title: Check-in 2022-05-18 7:30am
+    - file: agendas/20220518BAgenda.md
+      title: Discussion 2022-05-18 7:00pm
+    - file: agendas/20220525Agenda.md
+      title: Check-in 2022-05-25 7:30am
+    - file: agendas/20220531Agenda.md
+      title: Meeting 2022-05-31 4:30pm
+    - file: agendas/20220601Agenda.md
+      title: Check-in 2022-06-01 7:30am
+    - file: agendas/20220601BAgenda.md
+      title: Deep Dive 2022-06-01 7:00pm
+    - file: agendas/20220608Agenda.md
+      title: Check-in 2022-06-08 7:30am
+    - file: agendas/20220608BAgenda.md
+      title: Deep Dive 2022-06-08 7:00pm
