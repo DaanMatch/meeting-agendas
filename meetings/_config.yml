@@ -56,3 +56,4 @@ html:
     utterances:
       repo: "DaanMatch/meeting-agendas"
     hypothesis: true
+    dokieli: true
