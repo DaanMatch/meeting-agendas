@@ -6,12 +6,6 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
-      - file: agendas/20220621Agenda.md
-        title: Design Thinking 2022-06-22 7:30am
-      - file: agendas/20220622Agenda.md
-        title: Check-in 2022-06-22 7:30am
-      - file: agendas/20220622BAgenda.md
-        title: Deep Dive 2022-06-22 7:00pm
   - caption: Code of Conduct
     chapters:
       - file: CODE_OF_CONDUCT.md
@@ -19,6 +13,14 @@ parts:
   # ARCHIVE - Store Agendas in reverse chronological order
   - caption: Agendas - Archive
     chapters:
+      - file: agendas/20221103Agenda.md
+        title: Patrick + Kenneth Backups Discussion
+      - file: agendas/20220622BAgenda.md
+        title: Deep Dive 2022-06-22 7:00pm    
+      - file: agendas/20220622Agenda.md
+        title: Check-in 2022-06-22 7:30am    
+      - file: agendas/20220621Agenda.md
+        title: Design Thinking 2022-06-22 7:30am
       - file: agendas/20220608BAgenda.md
         title: Deep Dive 2022-06-08 7:00pm
       - file: agendas/20220608Agenda.md
