@@ -15,8 +15,6 @@ parts:
   # ARCHIVE - Store Agendas in reverse chronological order
   - caption: Agendas - Archive
     chapters:
-      - file: agendas/20221103Agenda.md
-        title: Patrick + Kenneth Backups Discussion
       - file: agendas/20220622BAgenda.md
         title: Deep Dive 2022-06-22 7:00pm    
       - file: agendas/20220622Agenda.md
