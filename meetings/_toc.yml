@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
-    - file: agendas/20221103Agenda.md
+      - file: agendas/20221103Agenda.md
         title: Patrick + Kenneth Backups Discussion
   - caption: Code of Conduct
     chapters:
