@@ -4,7 +4,9 @@ All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
 
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 2022 June Week 4
+## Previous Weeks
+
+:::::{dropdown} 2022 June Week 4
 
 ::::{tab-set}
 :::{tab-item} Tuesday
@@ -18,10 +20,8 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 - [Deep Dive 7:30pm](agendas/20220622BAgenda.md)
 :::
 ::::
+:::::
 
-## Previous Weeks
-
-:::::{dropdown} 2022 June Week 2
 :::{admonition} Announcements - 2022 June
 :class: attention
 Alan is surveying 2 morning times work to introduce Design Thinking Methodology using [Mural.co](http://mural.co/) as a collaboration tool for Virtual meetings. 1 to 1.5 hours.
