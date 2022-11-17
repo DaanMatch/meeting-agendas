@@ -22,7 +22,6 @@ Possible pilot program sponsorship. Deadline February 2023.
 :::{tab-item} Wed
 
 - [Check-In 7:30am](agendas/20220622Agenda.md)
-- [Deep Dive 7:30pm](agendas/20220622BAgenda.md)
 :::
 ::::
 
