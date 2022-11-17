@@ -4,7 +4,7 @@ All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
 
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Previous Weeks
+## Previous Meetings
 
 :::::{dropdown} 2022 June Week 4
 
