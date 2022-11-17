@@ -8,6 +8,8 @@ parts:
     chapters:
       - file: agendas/20221103Agenda.md
         title: Patrick + Kenneth Backups Discussion
+      - file: agendas/20221116Agenda.md
+        title: DaanMatch Deep Dive 2022-11-16 6:00pm
   - caption: Code of Conduct
     chapters:
       - file: CODE_OF_CONDUCT.md
