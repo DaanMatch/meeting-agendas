@@ -4,6 +4,11 @@ All meetings are hosted on Google Meets or Zoom. Default Timezone: PST.
 
 Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
+:::{admonition} Announcements - 2022 November
+:class: attention
+Possible pilot program sponsorship. Deadline February 2023.
+:::
+
 ## Previous Meetings
 
 :::::{dropdown} 2022 June Week 4
