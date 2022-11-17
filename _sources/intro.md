@@ -20,7 +20,6 @@ Work communications on Slack. Please review our [Code of Conduct](CODE_OF_CONDUC
 - [Deep Dive 7:30pm](agendas/20220622BAgenda.md)
 :::
 ::::
-:::::
 
 :::{admonition} Announcements - 2022 June
 :class: attention
