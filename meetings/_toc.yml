@@ -10,6 +10,8 @@ parts:
         title: Pat&Ken Backups Discussion
       - file: agendas/20221116Agenda.md
         title: Deep Dive 2022-11-16 6:00pm
+      - file: agendas/20221130Agenda.md
+        title: Weekly Meeting 2022-11-30
   - caption: Code of Conduct
     chapters:
       - file: CODE_OF_CONDUCT.md
