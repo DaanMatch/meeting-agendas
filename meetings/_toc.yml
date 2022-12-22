@@ -12,6 +12,8 @@ parts:
         title: Deep Dive 2022-11-16 6:00pm
       - file: agendas/20221130Agenda.md
         title: Weekly Meeting 2022-11-30
+      - file: agendas/20221221Agenda.md
+        title: Weekly Meeting 2022-12-21
   - caption: Code of Conduct
     chapters:
       - file: CODE_OF_CONDUCT.md
