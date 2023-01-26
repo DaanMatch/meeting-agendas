@@ -471,8 +471,8 @@ title="Print to PDF"
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#geocoding">
-   4. Geocoding
+  <a class="reference internal nav-link" href="#figma">
+   4. Figma
   </a>
  </li>
 </ul>
@@ -510,8 +510,8 @@ title="Print to PDF"
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#geocoding">
-   4. Geocoding
+  <a class="reference internal nav-link" href="#figma">
+   4. Figma
   </a>
  </li>
 </ul>
@@ -542,7 +542,6 @@ title="Print to PDF"
 <h2>2. Discussion<a class="headerlink" href="#discussion" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>Interviews Spring 2023 DS Discovery. <a class="reference external" href="https://data.berkeley.edu/discovery/projects">Link to other projects</a></p></li>
-<li><p>Finalizing who the letter is being sent to</p></li>
 <li><p>Finishing off Figma</p></li>
 </ul>
 </section>
@@ -552,50 +551,13 @@ title="Print to PDF"
 <li><p><a class="reference external" href="https://daanmatch.github.io/dsdiscovery/spring23/1-intro.html">Onboarding document</a></p></li>
 </ul>
 </section>
-<section id="geocoding">
-<h2>4. Geocoding<a class="headerlink" href="#geocoding" title="Permalink to this headline">#</a></h2>
-<ol class="simple">
-<li><p>Convert address to new standard and then check reverse geocoder if it’s valid.</p></li>
-</ol>
-<p>There are a few options for geocoding addresses for free:</p>
+<section id="figma">
+<h2>4. Figma<a class="headerlink" href="#figma" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
-<li><p>Google Maps API: Google provides a geocoding API that allows you to convert addresses into geographic coordinates (latitude and longitude). You can use this API for free up to a certain number of requests per day, after which you will need to pay for additional requests. You can find more information about the Google Maps API and how to use it here: <a class="reference external" href="https://developers.google.com/maps/documentation/geocoding/start">https://developers.google.com/maps/documentation/geocoding/start</a></p></li>
-<li><p>OpenStreetMap: OpenStreetMap is a free and open-source mapping platform that provides geocoding services. You can use the Nominatim API to geocode addresses and place names for free, although there are some usage limits in place to ensure that the service remains available for everyone. You can find more information about the Nominatim API and how to use it here: <a class="reference external" href="https://wiki.openstreetmap.org/wiki/Nominatim">https://wiki.openstreetmap.org/wiki/Nominatim</a></p></li>
-<li><p>Geocode.xyz: Geocode.xyz is a free geocoding service that allows you to convert addresses and place names into geographic coordinates. You can use the API for free, although there are some usage limits in place. You can find more information about Geocode.xyz and how to use it here: <a class="reference external" href="https://geocode.xyz/api">https://geocode.xyz/api</a>
-It’s important to note that all of these services have usage limits and terms of service that you should familiarize yourself with before using them.</p></li>
+<li><p>Add indicator to select language screen</p></li>
+<li><p>Get vs Post for each stage of media upload. Whether it needs to be bundled.</p></li>
+<li><p>First time they go through media selection loop, give reminder of what’s happening and why they’re doing what they are doing. For now it’s a transient status logged on to browser. Can take user feedback whether this should be added to database.</p></li>
 </ul>
-<div class="highlight-{python}import notranslate"><div class="highlight"><pre><span></span>
-def geocode_addresses(addresses):
-  # Create a list to store the results
-  results = []
-
-  # Iterate over the list of addresses
-  for address in addresses:
-    # Construct the API request URL
-    url = f&quot;https://geocode.xyz/{address}?json=1&quot;
-
-    # Make the request to the API
-    response = requests.get(url)
-
-    # Get the JSON data from the response
-    data = response.json()
-
-    # Check if the request was successful
-    if data[&quot;status&quot;] == &quot;OK&quot;:
-      # Get the latitude and longitude from the response
-      lat = data[&quot;latt&quot;]
-      lng = data[&quot;longt&quot;]
-
-      # Add the latitude and longitude to the results list
-      results.append((lat, lng))
-    else:
-      # If the request was not successful, add an error message to the results list
-      results.append(f&quot;Error: {data[&#39;status&#39;]}&quot;)
-
-  # Return the results
-  return results
-</pre></div>
-</div>
 </section>
 </section>
 
