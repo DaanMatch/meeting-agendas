@@ -6,6 +6,10 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+      - file: agendas/20230125Agenda.md
+        title: Weekly Meeting 2023-01-25 6:00pm
+      - file: agendas/20230118Agenda.md
+        title: Weekly Meeting 2023-01-18 6:00pm
       - file: agendas/20221103Agenda.md
         title: Pat&Ken Backups Discussion
       - file: agendas/20221116Agenda.md
