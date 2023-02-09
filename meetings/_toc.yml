@@ -6,6 +6,8 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+      - file: agendas/20230208Agenda.md
+        title: Weekly Meeting 2023-01-25 6:00pm
       - file: agendas/20230125Agenda.md
         title: Weekly Meeting 2023-01-25 6:00pm
       - file: agendas/20230118Agenda.md
