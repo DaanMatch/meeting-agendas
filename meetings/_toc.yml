@@ -6,27 +6,22 @@ root: intro
 parts:
   - caption: Agendas
     chapters:
+      - file: agendas/20230301Agenda.md
+        title: Weekly Meeting 2023-03-01 
       - file: agendas/20230208Agenda.md
-        title: Weekly Meeting 2023-01-25 6:00pm
+        title: Weekly Meeting 2023-02-08 
       - file: agendas/20230125Agenda.md
-        title: Weekly Meeting 2023-01-25 6:00pm
+        title: Weekly Meeting 2023-01-25 
       - file: agendas/20230118Agenda.md
-        title: Weekly Meeting 2023-01-18 6:00pm
-      - file: agendas/20221103Agenda.md
-        title: Pat&Ken Backups Discussion
-      - file: agendas/20221116Agenda.md
-        title: Deep Dive 2022-11-16 6:00pm
-      - file: agendas/20221130Agenda.md
-        title: Weekly Meeting 2022-11-30
+        title: Weekly Meeting 2023-01-18 
       - file: agendas/20221221Agenda.md
         title: Weekly Meeting 2022-12-21
-  - caption: Code of Conduct
-    chapters:
-      - file: CODE_OF_CONDUCT.md
-        title: Code of Conduct for DaanMatch
-  # ARCHIVE - Store Agendas in reverse chronological order
-  - caption: Agendas - Archive
-    chapters:
+      - file: agendas/20221130Agenda.md
+        title: Weekly Meeting 2022-11-30
+      - file: agendas/20221116Agenda.md
+        title: Deep Dive 2022-11-16 6:300pm
+      - file: agendas/20221103Agenda.md
+        title: Pat&Ken Backups Discussion
       - file: agendas/20220622Agenda.md
         title: Check-in 2022-06-22 7:30am    
       - file: agendas/20220621Agenda.md
